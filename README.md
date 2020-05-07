@@ -1,4 +1,5 @@
-This website is an early version and will be updated in the near future! 
-#vue #react #angular
+# Sindélio's simple professional webpage
 
-Point your browser to: [https://sindelio.github.io](https://sindelio.github.io/)
+Webpage  v1.2.0 -	Last updated May/2020
+
+To view the webpage, point your browser to: [https://sindelio.github.io](https://sindelio.github.io/)
