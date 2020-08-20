@@ -5,10 +5,12 @@ html, body {
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #222;
+  /* background-color: #e3fce6; */
 }
 
 .navbar {
   padding: .5rem;
+  /* background-color: #e3fce6; */
 }
 #img-io {
   height: 150px;
@@ -16,13 +18,6 @@ html, body {
   overflow: hidden;
   border-radius: 50%;
 }
-/* .navbar-nav li {
-  padding-right: 5px;
-} */
-/* .nav-link {
-  font-size: 1.1em !important;
-} */
-
 
 .carousel-inner img {
   width: 100%;
@@ -56,6 +51,7 @@ html, body {
 .jumbotron {
   padding: 1rem;
   border-radius: 0;
+  /* background-color: #e3fce6; */
 }
 .padding {
   padding-bottom: 2rem;
@@ -115,7 +111,6 @@ hr.light {
   padding-top: .8rem;
   margin-bottom: 1rem;
 }
-
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
