@@ -1,4 +1,4 @@
-# Sindélio's simple professional webpage
+# Sindélio's professional webpage
 
 Webpage  v2.0.0 -	Last updated Aug/2020
 
